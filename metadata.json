@@ -1,0 +1,6 @@
+{
+  "name": "Romantic Birthday Celebration - عيد ميلاد سعيد يا روحي",
+  "description": "موقع رومانسي متكامل وفخم للاحتفال بعيد ميلاد شريكة الحياة مع مؤثرات القلوب، رسائل الحب، مشغل الأغاني ومعرض الذكريات.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
